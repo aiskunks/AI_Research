@@ -1,7 +1,7 @@
 # AI Research
 AI Research
 
-| Name           | Research Topic                 | Abstract Link | Status | RGB |
+| Name           | Research Topic                 | Abstract Link | Status | RAG |
 |----------------|--------------------------------|---------------|--------|-----|
 |Kshitij Zutshi|**Data Imputation Best Practices**|[Abstract Link](https://github.com/aiskunks/AI_Research/tree/main/data-imputation-best-practices)| In Progress |🟢|
 |Rohit Gandikota|**Best Practises to Train and Control DCGAN**|[Abstract Link](https://github.com/aiskunks/AI_Research/blob/main/dc-gan-best-practices/README.md)| In Progress|🟢  |
