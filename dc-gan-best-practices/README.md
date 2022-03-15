@@ -7,7 +7,7 @@ GAN training can be tricky and very sensitive. It is still an active research do
 ### Results
 
 A sample generation of cats when trained with a set of CAT faces ONLY
-<div align='center'>
+<div align='left'>
 <img src = 'results/cats/vanilla_generated_plot_e830.png'
      width="500" 
      height="500">
@@ -15,7 +15,7 @@ A sample generation of cats when trained with a set of CAT faces ONLY
 
 
 A sample generation of cats when trained with a set of CAT (set of 5000) and WILD ANIMAL (set of 5000) faces
-<div align='center'>
+<div align='left'>
 <img src = 'results/cats+wild/vanilla_generated_plot_e2570.png'
      width="500" 
      height="500">
