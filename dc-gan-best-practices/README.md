@@ -15,7 +15,7 @@ A sample generation of cats when trained with a set of CAT faces ONLY
 
 A sample generation of cats when trained with a set of CAT (set of 5000) and WILD ANIMAL (set of 5000) faces
 <div align='left'>
-<img src = 'results/cats+wild/vanilla_generated_plot_e2570.png'
+<img src = 'results/cats+wild/vanilla_generated_plot_e2610.png'
      width="500" 
      height="500">
 </div>
