@@ -8,6 +8,6 @@ A sample generation of cats when trained with a set of wild animals faces
 
 <div align='center'>
 <img src = 'generated/vanilla_generated_plot_e2570.png'
-     width="200" 
-     height="200">
+     width="400" 
+     height="400">
 </div>
