@@ -1,4 +1,4 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/adjusting-for-bias-with-procedural-data/representation-learning-on-animals-10)](https://paperswithcode.com/sota/representation-learning-on-animals-10?p=adjusting-for-bias-with-procedural-data)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/adjusting-for-bias-with-procedural-data/representation-learning-on-animals-10)](https://paperswithcode.com/sota/representation-learning-on-animals-10?p=adjusting-for-bias-with-procedural-data)<br>
 In the paper we demonstrate the use of procedural data for the adjustment of bias in image datasets. 
 We perform error analysis of images of animals which shows that the misclassification of some animal breeds is largely a data issue. 
 We then create procedural images of the poorly classified breeds and that models further trained on procedural data can better classify poorly performing breeds on real data. 
