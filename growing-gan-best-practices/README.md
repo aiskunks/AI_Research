@@ -2,9 +2,9 @@
 
 ### Abstract 📑
 
-Generative Adversarial Networks are very useful for content generation, but are really effective in lower resolutions. Training a GAN directly to generate in high dimensions (128x128 and above) is very tricky and diffcult with general usage GPUs.  </br>
+Generative Adversarial Networks are very useful for content generation, but are really effective in lower resolutions. Training a GAN directly to generate in high dimensions (128x128 and above) is very tricky and difficult with general usage GPUs.  </br>
 
-This work attempts to train network from lower dimensions (4x4) and progressively increase the resolution by means of transfer learning. This allows the network to learn faster and generate in higher dimensions.
+This work attempts to train a GAN network from lower dimensions (4x4) and progressively increase the resolution by means of transfer learning. This allows the network to learn faster and generate in higher dimensions more effectively.
 
 ### Results 📈
 
