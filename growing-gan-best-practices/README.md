@@ -8,7 +8,7 @@ This work attempts to train a GAN network from lower dimensions (4x4) and progre
 
 ### Results 📈
 
-A sample generation of random animals (sometimes non-existant species) in progressing dimensions. </br>
+A sample generation of random animals (sometimes non-existant species because the training was done on cats, dogs and wild animals together) in progressing dimensions. </br>
 
 1. 4x4
 <div align='left'>
