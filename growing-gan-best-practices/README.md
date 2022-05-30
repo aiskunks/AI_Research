@@ -51,3 +51,14 @@ A sample generation of random animals (sometimes non-existant species because th
      width="500" 
      height="500">
 </div>
+
+### Training Curves
+
+As can be seen, the model has a potential for higher accuracies. The model was currently trained on 16000 samples for 46 hours on an Nvidia P2000 GPU. One can leave the training for longer duration and on higher capacity GPUs for better results. Currently we are running the algorithm on Discovery Cluster of Northeastern University.
+
+<div align='left'>
+<img src = 'images/AccuracyPlots_100Latent.png'
+     width="500" 
+     height="500">
+</div>
+
