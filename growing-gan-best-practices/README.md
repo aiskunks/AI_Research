@@ -6,7 +6,7 @@ Generative Adversarial Networks are very useful for content generation, but are 
 
 This work attempts to train a GAN network from lower dimensions (4x4) and progressively increase the resolution by means of transfer learning. This allows the network to learn faster and generate in higher dimensions more effectively.
 
-### Results 📈
+### Results 🎯
 
 A sample generation of random animals (sometimes non-existant species because the training was done on cats, dogs and wild animals together) in progressing dimensions. </br>
 
@@ -52,7 +52,7 @@ A sample generation of random animals (sometimes non-existant species because th
      height="500">
 </div>
 
-### Training Curves
+### Training Curves 📈
 
 As can be seen, the model has a potential for higher accuracies. The model was currently trained on 16000 samples for 46 hours on an Nvidia P2000 GPU. One can leave the training for longer duration and on higher capacity GPUs for better results. Currently we are running the algorithm on Discovery Cluster of Northeastern University.
 
