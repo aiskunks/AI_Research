@@ -58,42 +58,42 @@ A sample generation of random animals (sometimes non-existant species because th
 
 1. 4x4
 <div align='left'>
-<img src = 'cat_wild_images/plot_004x004-tuned.png'
+<img src = 'cats_wild_images/plot_004x004-tuned.png'
      width="500" 
      height="500">
 </div>
 
 2. 8x8
 <div align='left'>
-<img src = 'cat_wild_images/plot_008x008-tuned.png'
+<img src = 'cats_wild_images/plot_008x008-tuned.png'
      width="500" 
      height="500">
 </div>
 
 3. 16x16
 <div align='left'>
-<img src = 'cat_wild_images/plot_016x016-tuned.png'
+<img src = 'cats_wild_images/plot_016x016-tuned.png'
      width="500" 
      height="500">
 </div>
 
 4. 32x32
 <div align='left'>
-<img src = 'cat_wild_images/plot_032x032-faded.png'
+<img src = 'cats_wild_images/plot_032x032-faded.png'
      width="500" 
      height="500">
 </div>
 
 5. 64x64
 <div align='left'>
-<img src = 'cat_wild_images/plot_064x064-faded.png'
+<img src = 'cats_wild_images/plot_064x064-faded.png'
      width="500" 
      height="500">
 </div>
 
 6. 128x128
 <div align='left'>
-<img src = 'cat_wild_images/plot_128x128-tuned.png'
+<img src = 'cats_wild_images/plot_128x128-tuned.png'
      width="500" 
      height="500">
 </div>
@@ -101,9 +101,16 @@ A sample generation of random animals (sometimes non-existant species because th
 ### Training Curves 📈
 
 As can be seen, the model has a potential for higher accuracies. The model was currently trained on 16000 samples for 46 hours on an Nvidia P2000 GPU. One can leave the training for longer duration and on higher capacity GPUs for better results. Currently we are running the algorithm on Discovery Cluster of Northeastern University.
-
+#### Cat Images
 <div align='left'>
 <img src = 'cat_images/AccuracyPlots_1024Latent.png'
+     width="500" 
+     height="500">
+</div>
+
+#### Cat and Wild Images
+<div align='left'>
+<img src = 'cats_wild_images/AccuracyPlots_1024Latent.png'
      width="500" 
      height="500">
 </div>
