@@ -110,7 +110,7 @@ As can be seen, the model has a potential for higher accuracies. The model was c
 
 #### Cat and Wild Images
 <div align='left'>
-<img src = 'cats_wild_images/AccuracyPlots_1024Latent.png'
+<img src = 'cats_wild_images/AccuracyPlots_100Latent.png'
      width="500" 
      height="500">
 </div>
