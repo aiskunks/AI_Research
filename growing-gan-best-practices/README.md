@@ -122,6 +122,27 @@ A sample generation of human faces in progressing dimensions. </br>
      height="500">
 </div>
 
+4. 32x32
+<div align='left'>
+<img src = 'human_images/plot_032x032-tuned.png'
+     width="500" 
+     height="500">
+</div>
+
+5. 64x64
+<div align='left'>
+<img src = 'human_images/plot_064x064-tuned.png'
+     width="500" 
+     height="500">
+</div>
+
+6. 128x128
+<div align='left'>
+<img src = 'human_images/plot_128x128-tuned.png'
+     width="500" 
+     height="500">
+</div>
+
  
 ### Training Curves 📈
 
