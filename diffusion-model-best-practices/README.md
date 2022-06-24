@@ -8,7 +8,7 @@ We specifically aim to bring out the user perspective when working with diffusio
 
 ### Results 📈
 
-Two sample generation of cats when trained with a set of CAT faces ONLY
+Sample generation of cats when trained with a set of CAT faces ONLY
 <div align='left'>
 <img src = 'cat_images/sample-493.png'
      width="500" 
