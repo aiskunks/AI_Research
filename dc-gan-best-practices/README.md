@@ -15,7 +15,5 @@ A sample generation of cats when trained with a set of CAT faces ONLY
 
 Final Samples of Cat Images (Diffusion based trained)
 <div align='left'>
-<img src = 'results/Cats.png'
-     width="500" 
-     height="500">
+<img src = 'results/Cats.png'>
 </div>
