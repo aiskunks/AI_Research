@@ -13,9 +13,9 @@ A sample generation of cats when trained with a set of CAT faces ONLY
      height="500">
 </div>
 
-A sample generation of cats when trained with a set of CAT (set of 5000) and WILD ANIMAL (set of 5000) faces
+Final Samples of Cat Images (Diffusion based trained)
 <div align='left'>
-<img src = 'results/cats+wild/vanilla_generated_plot_e4790.png'
+<img src = 'results/Cats.png'
      width="500" 
      height="500">
 </div>
