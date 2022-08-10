@@ -7,6 +7,10 @@ There has been a lot of work that proves diffusion model's dominance over GANs w
 We specifically aim to bring out the user perspective when working with diffusion models. 
 
 ### Results 📈
+Final Images of Cats using the novel diffusion training method
+<div align='left'>
+<img src = 'Cats.png'>
+</div>
 
 Sample generation of cats when trained with a set of CAT faces ONLY
 <div align='left'>
