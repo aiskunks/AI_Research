@@ -1,4 +1,4 @@
-## Comparison of Performance and Best Practices of Data Imputation Techniques
+## Best Practises to Train and Control DCGAN
 
 ### Abstract 📑
 
